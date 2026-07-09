@@ -1,4 +1,4 @@
-# EBAC - Especialista Back-End Java
+# EBAC - Back-End Java
 
 Repositório contendo todos os exercícios e projetos desenvolvidos durante o curso.
 
